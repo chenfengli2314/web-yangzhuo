@@ -1,0 +1,23 @@
+#banner{width: 1370px;height:650px;background: url(../images/s/bg-banner.jpg) no-repeat center center;}
+#banner div.fl img{margin-left: 130px;margin-top: 40px;height: 600px;}
+#banner div.fr{width: 500px;height: 500px;margin-right: 100px;}
+#banner div.fr h1{font-weight: 500;margin-top: 200px;font-size: 38px;margin-bottom: 26px;}
+#banner div.fr p{line-height: 30px;font-size: 17px;}
+#banner div.fr ul li{float: left;width: 80px;height: 80px;margin-top: 36px;margin-right: 36px;transition: 0.3s;}
+#banner div.fr ul li:hover{cursor: pointer;transform: rotateY(360deg);}
+#banner div.fr ul li.one{background: url(../images/s/ui_1.png) no-repeat center center;background-size: 80px;}
+#banner div.fr ul li.one:hover{background: url(../images/s/ui_1_1.png) no-repeat center center;background-size: 80px;transition: 1s;}
+#banner div.fr ul li.two{background: url(../images/s/ui_3.png) no-repeat center center;background-size: 80px;}
+#banner div.fr ul li.two:hover{background: url(../images/s/ui_3_3.png) no-repeat center center;background-size: 80px;transition: 1s;}
+#banner div.fr ul li.thr{background: url(../images/s/ui_4.png) no-repeat center center;background-size: 80px;}
+#banner div.fr ul li.thr:hover{background: url(../images/s/ui_4_4.png) no-repeat center center;background-size: 80px;transition: 1s;}
+section.one{width: 1370px;height: 400px;padding-top: 100px;background: url(../images/s/wangge.png) no-repeat right top;}
+section div.fl h1{text-align: right;font-size: 31px;font-weight: 500;line-height: 48px;}
+section div.fl{width:480px;line-height: 30px;margin-left: 100px;margin-right: 100px;padding-top: 80px;}
+section div.fr{margin-right: 100px;padding-top: 80px;}
+section div.fr img{width: 480px;transition: 0.4s;}
+section div.fr:hover img{transform: rotate(720deg);transition: 0.4s;}
+section div.fl img{width: 480px;}
+section div.fl:hover img{transform: rotate(720deg);transition: 0.4s;}
+section div.fr{width:480px;line-height: 30px;margin-right: 100px;}
+section div.fr h1{text-align: right;font-size: 31px;font-weight: 500;line-height: 48px;padding-top: 80px;}

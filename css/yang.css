@@ -1,0 +1,21 @@
+#banner{width: 1370px;height: 400px;background: url(../images/y/58bfa6dcdf2eb.jpg) no-repeat center center;animation: banner 17s infinite;text-align: center;line-height: 490px;}
+#banner img{width:550px;}
+@keyframes banner{
+	0%{background: url(../images/y/58bfa6dcdf2eb.jpg) no-repeat center center;background-size: 1370px 400px;}
+	18%{background: url(../images/y/58bfa6dcdf2eb.jpg) no-repeat center center;background-size: 1570px 600px;}
+	36%{background: url(../images/l/58bf6ee2572ff.jpg) no-repeat center center;background-size: 1370px 400px;}
+	54%{background: url(../images/l/58bf6ee2572ff.jpg) no-repeat center center;background-size: 1570px 600px;}
+	72%{background: url(../images/l/58bf6f62f290f.jpg) no-repeat center center;background-size: 1370px 400px;}
+	90%{background: url(../images/l/58bf6f62f290f.jpg) no-repeat center center;background-size: 1570px 600px;}
+	100%{background: url(../images/y/58bfa6dcdf2eb.jpg) no-repeat center center;background-size: 1370px 400px;}
+}
+section{width: 1100px;height: 1560px;background:url(../images/y/bg-black.png) no-repeat center -250px;margin:0 auto;background-size: 1100px;position: relative;top:-50px;}
+section div.logo img{width: 400px;position: absolute;left:-160px;top:-284px;}
+section div.tit{float: right;color: #3e3e3e;}
+section div.tit h1{width:600px;height: 200px;line-height: 360px;text-align: right;margin-right:210px;font-size: 40px;font-weight: 500;}
+section div.tit p{width:200px;text-align: right;margin-right:90px;font-size: 20px;font-weight: 500;height: 36px;line-height: 36px;border-top:1px solid ;color:#3e3e3e;margin-top: 20px;float: right;margin-bottom: 20px;}
+section p.con{width: 920px;margin:30px auto;font-size: 16px;line-height: 30px;text-indent: 2em;}
+section div.img{width: 920px;margin:30px auto;position: relative;left:20px;}
+section div.img img{opacity:0.6;transition: 0.4s;}
+section div.img img:hover{opacity: 1;transition: 0.4s;cursor: pointer;}
+section div.yu img{width: 440px;position: absolute;right:90px;bottom:70px;}

@@ -1,0 +1,22 @@
+header{width: 1370px;height:155px;position: relative;background: #2C2C2C;}
+header div.fl{width:304px;height:155px;text-align: center}
+header div.fl img{width: 200px;margin-top: 48px;margin-bottom: 100px;}
+header div.fr{width: 1066px;height:155px;}
+header div.fr ul{width: 400px;height: 34px;border-bottom: 1px solid #fff;position: absolute;right:100px;top:70px;}
+header div.fr ul li{float: left;width: 50px;height: 30px;text-align: center;margin-right: 20px;}
+header div.fr ul li:hover{border-bottom: 4px solid #fff;transition: 0.5s;cursor: pointer;}
+header div.fr ul li.on{border-bottom: 4px solid #fff;}
+header div.fr ul a{color: #FFFFFF;font-weight: 300;font-size:14px; }
+nav{width: 1290px;height: 40px;background:#232323;line-height: 40px;color: #BABBBB;padding-left: 80px;}
+nav span{color: #fff;font-size: 13px;margin-left: 10px;}
+nav a{color: #BABBBB;font-size: 13px;margin-right:10px;}
+footer{width: 1370px;height: 330px;background:#393939;padding-top:100px;position: relative;}
+footer div.fl{margin-left: 120px;color: #FFFFFF;width: 550px;}
+footer div.fl img{width: 54px;margin-right: 7px;}
+footer div.fl h2{font-size:20px;font-weight: 500;margin-top: 4px;margin-bottom: 16px;}
+footer div.fl span{font-size: 14px;font-weight: 300;line-height: 30px;margin-right: 20px;}
+footer div.fr{margin-right: 150px;}
+footer div.fr p{color: #fff;font-size:18px;}
+footer .tex{width: 260px;height: 83px;border:none;margin-top: 15px;background:#8C8D8D;border-radius: 9px;border-right:20px solid #4b9cda;padding:6px;color: #fff;}
+footer .btn{width: 40px;height: 95px;border:none;background:#4B9CDA;font-size: 18px;color: #fff;border-radius: 9px;position: relative;top:-53px;left:-22px;}
+footer div.footer{width: 1370px;height: 80px;background:#1A1A1E;clear: both;position: absolute;bottom:0;text-align: center;line-height: 34px;padding-top: 10px;color: #808080;}
